@@ -4,4 +4,4 @@ This is a simple linear regression in Python. Nothing serious, the product of pl
 
 To generate the graph, run the practice-regression file from the terminal. Make sure you've installed the required packages.
 
-![Alt text](./lsd-test-scores.png)
+![Alt text](./lsd-maths-scores.png)

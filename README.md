@@ -1,5 +1,5 @@
 # python-lsd-maths-regression
 
-This is a simple linear regression in Python. I just wanted to give myself an hour to play with python and see if I could crack a regression.
+This is a simple linear regression in Python. Nothing serious, the product of playing with python for an hour. Turns out, taking LSD makes you worse at maths. 
 
 To generate the graph, run the practice-regression file from the terminal. Make sure you've installed the required packages.
